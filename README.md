@@ -21,3 +21,9 @@ Project1_Part1.ipynb
 
 Project1_Part2.ipynb 
  - Notebook contains analysis for first set of data science questions and visualizations including bar charts. All code has comments explaining steps and there are markdown cells used to describe and organize all findings.
+
+CLEANED_Non-Majors Survey Results - Fall 2024.csv
+ - cleaned data obtained from Project1_Part1.ipynb
+
+Non-Majors Survey Results - Fall 2024.csv
+ - original uncleaned data
