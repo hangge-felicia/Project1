@@ -13,3 +13,11 @@ data driven answers on how and where they should focus their recruitment efforts
 course of this project I will successfully determine data science questions that will be answered using the given dataset, clean the dataset using 
 different tools in order to prepare it for analysis, and successfully analyze and visualize the data in order to answer my original questions.  
 
+
+Repository Contents/Files: 
+
+Project1_Part1.ipynb
+ - Notebook contains simple data exploration and cleaning steps using python and pandas. All code has comments explaining steps and there are markdown cells used to describe and organize all findings. 
+
+Project1_Part2.ipynb 
+ - Notebook contains analysis for first set of data science questions and visualizations including bar charts. All code has comments explaining steps and there are markdown cells used to describe and organize all findings.
